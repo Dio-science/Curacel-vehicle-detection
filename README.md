@@ -2,7 +2,7 @@ Vehicle inspection system for Curacel
 
 Classifying images of Damaged cars and Good Cars 
 
-Step 1 - Goto https://drive.google.com/drive/folders/1VDJ-aw7hctbaSzoeUzuNulizESNsTP7p?usp=sharing to access and download the Training and Validation file on your PC
+Step 1 - Goto https://drive.google.com/drive/folders/1VDJ-aw7hctbaSzoeUzuNulizESNsTP7p?usp=sharing to access and download the Training and Validation file on your PC (Ifyou need to tweak the DNN algorithm)
 
 Step 2 - Save the train and validation folder in this directory (PWD)
 
